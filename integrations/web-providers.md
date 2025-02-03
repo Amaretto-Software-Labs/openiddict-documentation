@@ -51,6 +51,7 @@ or mobile application targeting a platform supported by the OpenIddict client (i
 | Facebook                             | https://developers.facebook.com/docs/facebook-login/manually-build-a-login-flow                                     |
 | FACEIT                               | https://developers.faceit.com/docs/auth/oauth2                                                                      |
 | Fitbit                               | https://dev.fitbit.com/build/reference/web-api/developer-guide/authorization/                                       |
+| GitCode                              | https://docs.gitcode.com/en/docs/oauth/                                                                             |
 | Gitee                                | https://gitee.com/api/v5/oauth_doc#/                                                                                |
 | GitHub                               | https://docs.github.com/en/developers/apps/building-oauth-apps/authorizing-oauth-apps                               |
 | GitLab                               | https://docs.gitlab.com/ee/integration/openid_connect_provider.html                                                 |
