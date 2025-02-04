@@ -26,7 +26,7 @@ care of starting the authorization/logout process and handling the callbacks pos
 
 ## Supported platforms
 
-OpenIddict 5.8+ supports the following operating systems:
+OpenIddict 6.0+ supports the following operating systems:
   - Android 5.0+ (Android API 21+)
   - iOS 12.0+
   - Linux
