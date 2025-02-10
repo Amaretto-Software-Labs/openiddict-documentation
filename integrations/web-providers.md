@@ -108,6 +108,7 @@ or mobile application targeting a platform supported by the OpenIddict client (i
 | Typeform                             | https://www.typeform.com/developers/get-started/applications/                                                       |
 | Verimi                               | https://docs.verimi.de/#/oidc/oidc_overview                                                                         |
 | Vimeo                                | https://developer.vimeo.com/api/authentication                                                                      |
+| VK ID                                | https://id.vk.com/about/business/go/docs/en/vkid/latest/oauth-vk                                                    |
 | Webex                                | https://developer.webex.com/docs/login-with-webex                                                                   |
 | Weibo                                | https://open.weibo.com/wiki/%E6%8E%88%E6%9D%83%E6%9C%BA%E5%88%B6%E8%AF%B4%E6%98%8E                                  |
 | Wikimedia                            | https://api.wikimedia.org/wiki/Authentication                                                                       |
@@ -115,6 +116,7 @@ or mobile application targeting a platform supported by the OpenIddict client (i
 | World ID                             | https://docs.worldcoin.org/reference/sign-in                                                                        |
 | Xero                                 | https://developer.xero.com/documentation/xero-app-store/app-partner-guides/sign-in/                                 |
 | Yahoo                                | https://developer.yahoo.com/oauth2/guide/openid_connect/                                                            |
+| Yandex                               | https://yandex.ru/dev/id/doc/en/                                                                                    |
 | Zendesk                              | https://support.zendesk.com/hc/en-us/articles/4408845965210-Using-OAuth-authentication-with-your-application        |
 | Zoho                                 | https://www.zoho.com/accounts/protocol/oauth.html                                                                   |
 | Zoom                                 | https://developers.zoom.us/docs/integrations/oauth/                                                                 |
