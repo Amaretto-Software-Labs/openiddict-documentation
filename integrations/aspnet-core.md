@@ -7,7 +7,7 @@ ASP.NET Core 2.1+ application, independently of whether they are using MVC contr
 
 | ASP.NET Core version | .NET runtime version |                                       |
 |----------------------|----------------------|---------------------------------------|
-| ASP.NET Core 2.1     | .NET Framework 4.6.1 | :heavy_check_mark: (with limitations) |
+| ASP.NET Core 2.1     | .NET Framework 4.6.2 | :heavy_check_mark: (with limitations) |
 | ASP.NET Core 2.1     | .NET Framework 4.7.2 | :heavy_check_mark:                    |
 | ASP.NET Core 2.1     | .NET Framework 4.8   | :heavy_check_mark:                    |
 | ASP.NET Core 2.1     | .NET Core 2.1        | :exclamation:                         |
@@ -24,10 +24,10 @@ ASP.NET Core 2.1+ application, independently of whether they are using MVC contr
 > **ASP.NET Core 2.1 on .NET Core 2.1, ASP.NET Core 3.1, 5.0 and 7.0 are no longer supported by Microsoft. While OpenIddict can still be used
 > on these platforms thanks to its .NET Standard 2.0 compatibility, users are strongly encouraged to migrate to ASP.NET Core 8.0 or 9.0**.
 >
-> ASP.NET Core 2.1 on .NET Framework 4.6.1 (and higher) is still fully supported.
+> ASP.NET Core 2.1 on .NET Framework 4.6.2 (and higher) is still fully supported.
 
 > [!NOTE]
-> **The following features are not available when targeting .NET Framework 4.6.1**:
+> **The following features are not available when targeting .NET Framework 4.6.2**:
 >  - X.509 development encryption/signing certificates: calling `AddDevelopmentEncryptionCertificate()` or `AddDevelopmentSigningCertificate()`
 > will result in a `PlatformNotSupportedException` being thrown at runtime if no valid development certificate can be found and a new one must be generated.
 >  - X.509 ECDSA signing certificates/keys: calling `AddSigningCertificate()` or `AddSigningKey()`

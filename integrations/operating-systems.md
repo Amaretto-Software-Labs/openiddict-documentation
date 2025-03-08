@@ -103,14 +103,14 @@ The OpenIddict Windows integration can be used in any application running on Win
 > 
 > | Windows version | .NET runtime version | Console            | WinForms           | WPF                | WinUI 2   | WinUI 3   | MAUI      |
 > |-----------------|----------------------|--------------------|--------------------|--------------------|-----------|-----------|-----------|
-> | Windows 7 SP1   | .NET Framework 4.6.1 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:       | :x:       | :x:       |
+> | Windows 7 SP1   | .NET Framework 4.6.2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:       | :x:       | :x:       |
 > | Windows 7 SP1   | .NET Framework 4.7.2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:       | :x:       | :x:       |
 > | Windows 7 SP1   | .NET Framework 4.8   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:       | :x:       | :x:       |
 > | Windows 7 SP1   | .NET 6.0             | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:       | :x:       | :x:       |
 > | Windows 7 SP1   | .NET 7.0             | :exclamation:      | :exclamation:      | :exclamation:      | :x:       | :x:       | :x:       |
 > | Windows 7 SP1   | .NET 8.0             | :exclamation:      | :exclamation:      | :exclamation:      | :x:       | :x:       | :x:       |
 > |                 |                      |                    |                    |                    |           |           |           |
-> | Windows 8.1     | .NET Framework 4.6.1 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:       | :x:       | :x:       |
+> | Windows 8.1     | .NET Framework 4.6.2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:       | :x:       | :x:       |
 > | Windows 8.1     | .NET Framework 4.7.2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:       | :x:       | :x:       |
 > | Windows 8.1     | .NET Framework 4.8   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:       | :x:       | :x:       |
 > | Windows 8.1     | .NET 6.0             | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:       | :x:       | :x:       |
@@ -118,7 +118,7 @@ The OpenIddict Windows integration can be used in any application running on Win
 > | Windows 8.1     | .NET 8.0             | :exclamation:      | :exclamation:      | :exclamation:      | :x:       | :x:       | :x:       |
 > | Windows 8.1     | .NET Native/UAP      | :x:                | :x:                | :x:                | :x:       | :x:       | :x:       |
 > |                 |                      |                    |                    |                    |           |           |           |
-> | Windows 10 1507 | .NET Framework 4.6.1 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:       | :x:       | :x:       |
+> | Windows 10 1507 | .NET Framework 4.6.2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:       | :x:       | :x:       |
 > | Windows 10 1507 | .NET Framework 4.7.2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:       | :x:       | :x:       |
 > | Windows 10 1507 | .NET Framework 4.8   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:       | :x:       | :x:       |
 > | Windows 10 1507 | .NET 6.0             | :exclamation:      | :exclamation:      | :exclamation:      | :x:       | :x:       | :x:       |
@@ -126,7 +126,7 @@ The OpenIddict Windows integration can be used in any application running on Win
 > | Windows 10 1507 | .NET 8.0             | :exclamation:      | :exclamation:      | :exclamation:      | :x:       | :x:       | :x:       |
 > | Windows 10 1507 | .NET Native/UAP      | :x:                | :x:                | :x:                | :x:       | :x:       | :x:       |
 > |                 |                      |                    |                    |                    |           |           |           |
-> | Windows 10 1809 | .NET Framework 4.6.1 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:       | :warning: | :x:       |
+> | Windows 10 1809 | .NET Framework 4.6.2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:       | :warning: | :x:       |
 > | Windows 10 1809 | .NET Framework 4.7.2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:       | :warning: | :x:       |
 > | Windows 10 1809 | .NET Framework 4.8   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:       | :warning: | :x:       |
 > | Windows 10 1809 | .NET 6.0             | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:       | :warning: | :warning: |
@@ -134,7 +134,7 @@ The OpenIddict Windows integration can be used in any application running on Win
 > | Windows 10 1809 | .NET 8.0             | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:       | :warning: | :warning: |
 > | Windows 10 1809 | .NET Native/UAP      | :x:                | :x:                | :x:                | :warning: | :x:       | :x:       |
 > |                 |                      |                    |                    |                    |           |           |           |
-> | Windows 11 21H2 | .NET Framework 4.6.1 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:       | :warning: | :x:       |
+> | Windows 11 21H2 | .NET Framework 4.6.2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:       | :warning: | :x:       |
 > | Windows 11 21H2 | .NET Framework 4.7.2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:       | :warning: | :x:       |
 > | Windows 11 21H2 | .NET Framework 4.8   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:       | :warning: | :x:       |
 > | Windows 11 21H2 | .NET 6.0             | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:       | :warning: | :warning: |
