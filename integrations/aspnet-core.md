@@ -12,16 +12,17 @@ ASP.NET Core 2.1+ application, independently of whether they are using MVC contr
 | ASP.NET Core 2.1     | .NET Framework 4.8   | :heavy_check_mark:                    |
 | ASP.NET Core 2.1     | .NET Core 2.1        | :exclamation:                         |
 |                      |                      |                                       |
-| ASP.NET Core 3.1     | .NET Core 3.1        | :heavy_check_mark:                    |
+| ASP.NET Core 3.1     | .NET Core 3.1        | :exclamation:                         |
 |                      |                      |                                       |
 | ASP.NET Core 5.0     | .NET 5.0             | :exclamation:                         |
 | ASP.NET Core 6.0     | .NET 6.0             | :heavy_check_mark:                    |
-| ASP.NET Core 7.0     | .NET 7.0             | :heavy_check_mark:                    |
+| ASP.NET Core 7.0     | .NET 7.0             | :exclamation:                         |
 | ASP.NET Core 8.0     | .NET 8.0             | :heavy_check_mark:                    |
+| ASP.NET Core 9.0     | .NET 9.0             | :heavy_check_mark:                    |
 
 > [!WARNING]
 > **ASP.NET Core 2.1 on .NET Core 2.1, ASP.NET Core 3.1, 5.0 and 7.0 are no longer supported by Microsoft. While OpenIddict can still be used
-> on these platforms thanks to its .NET Standard 2.0 compatibility, users are strongly encouraged to migrate to ASP.NET Core 8.0**.
+> on these platforms thanks to its .NET Standard 2.0 compatibility, users are strongly encouraged to migrate to ASP.NET Core 8.0 or 9.0**.
 >
 > ASP.NET Core 2.1 on .NET Framework 4.6.1 (and higher) is still fully supported.
 
