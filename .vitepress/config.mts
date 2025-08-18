@@ -86,6 +86,10 @@ export default defineConfig({
             link: "/guides/contributing-a-new-web-provider"
           },
           {
+            text: "Using Microsoft dev tunnels",
+            link: "/guides/using-microsoft-dev-tunnels"
+          },
+          {
             text: "External resources",
             items: [
               { text: "OAuth 2.0 specification", link: "https://datatracker.ietf.org/doc/html/rfc6749" },
